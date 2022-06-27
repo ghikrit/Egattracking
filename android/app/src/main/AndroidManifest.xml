@@ -19,7 +19,7 @@
         android:label="egattracking"
         android:icon="@mipmap/launcher_icon">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCbKdxrLSqCodQWSOgGbQ6lnjhZJJvC3KU"/>
+            android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
